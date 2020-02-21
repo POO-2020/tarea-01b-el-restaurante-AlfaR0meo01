@@ -9,9 +9,9 @@ export default class Direccion{
         this.codigo_postal = codigo_postal;
         this.ciudad = ciudad;
         this.municipio = municipio;
-
+        
     }
-    gerFormatoCorto(){
+    getFormatoCorto(){
         return `Direccion: ${this.calle}, numero: ${this.num_exterior},`;
     }
     getFormatLargo(){

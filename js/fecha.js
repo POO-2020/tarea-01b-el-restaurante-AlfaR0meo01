@@ -25,11 +25,3 @@ export default class Fecha {
     }
 }
 
-/*var fecha = new Fecha(2, 1, 2001)
-console.log(fecha.getAno());
-console.log(fecha.getMeses());
-console.log(fecha.getSemanas());
-console.log(fecha.getDias());
-console.log(fecha.getFecha());
-console.log(fecha.getDiaFecha());*/
-
